@@ -12,11 +12,6 @@ How to get last non empty column of a SAS or WPS array. Keywords: sas sql join m
 
       Same resuts in WPS/SAS
 
-        WPS has a big advantage over SAS because SAS typically locksdown pokelong(heavy marketing?).
-        SAS promotes supermax lockdown systems with VM solitary confinement as enhancements.
-        Even worse becase SAS is increasing the cost of full classic SAS on a workstation, forcing users
-        into supermax lockdown systems with VM solitary confinement as enhancements.
-
     see
     https://goo.gl/Ebq7tm
     https://stackoverflow.com/questions/48473937/how-to-get-last-non-empty-column-of-a-series-from-a-date-set-in-sas
